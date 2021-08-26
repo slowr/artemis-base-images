@@ -1,4 +1,4 @@
-FROM caida/bgpstream:2.0.0
+FROM caida/bgpstream:2.2.0
 
 LABEL maintainer="Dimitrios Mavrommatis <jim.mavrommatis@gmail.com>"
 
